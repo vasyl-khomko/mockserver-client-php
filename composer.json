@@ -1,0 +1,13 @@
+{
+    "name": "vasyl-khomko/mockserver-client",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vasyl Khomko",
+            "email": "khomko.vasyl@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
